@@ -1,1 +1,1 @@
-"# Пащенко ?лля ?А-94 Ф?ОТ НТУУ КП?" 
+Illya Pashchenko IA-94 FICT NTUU KPI
