@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
     {
         float direction = Input.GetAxisRaw("Horizontal");
         rb.velocity = new Vector2(direction * 5f, rb.velocity.y);
-
+        
         if (Input.GetKeyDown("space"))
         {
             GetComponent<Rigidbody2D>().velocity = new Vector2(rb.velocity.x, 14f);
